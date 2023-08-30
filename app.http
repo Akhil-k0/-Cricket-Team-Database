@@ -1,0 +1,14 @@
+GET http://localhost:3000/players/
+
+###
+
+Get http://localhost:3000/players/
+
+###
+
+GET http://localhost:3000/players/1/
+
+
+### 
+
+GET http://localhost:3000/players/1/
